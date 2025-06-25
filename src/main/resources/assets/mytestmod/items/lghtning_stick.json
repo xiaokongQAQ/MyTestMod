@@ -1,0 +1,6 @@
+{
+  "model":{
+    "type": "minecraft:item",
+    "model": "mytestmod:item/lightning_stick"
+  }
+}
